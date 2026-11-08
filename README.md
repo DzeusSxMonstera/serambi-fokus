@@ -1,4 +1,4 @@
-# Atlas Alam
+# Serambi Fokus
 
 Ruang fokus bersuasana alam: pemandangan (alam, laut dan akuarium, kota), cuaca (hujan, panas, salju, badai angin, debu dan pasir), timer fokus, waktu sholat dan adzan, widget Al-Qur'an karaoke, kalender Hijriah, hadis, arah kiblat, pemutar MP3, catatan, task terjadwal, running text, dan screensaver.
 
